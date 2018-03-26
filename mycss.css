@@ -1,3 +1,7 @@
 .panel-body{color:darkred}
 .panel-body{font-family:cursive;}
-.text{color:purple}
+.text{color:purple;text-decoration: underline;}
+.jumbotron h1 {color: red;text-shadow: 2px 2px darkgrey}
+.container{background-color: lightgrey}
+.panel-body{background-color:lightblue}
+.container{border:solid black}
